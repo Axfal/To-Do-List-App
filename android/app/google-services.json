@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429601610896",
+    "project_id": "testing-cli-71113",
+    "storage_bucket": "testing-cli-71113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429601610896:android:18e384985383d21c8f0c15",
+        "android_client_info": {
+          "package_name": "com.ali.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSMth4MIQNrwEXuzsmwUxUQt99jC915pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
